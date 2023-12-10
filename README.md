@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### Ninja
-<img style="border-radius: 8px" src="https://c4.wallpaperflare.com/wallpaper/826/109/269/spiderman-into-the-spider-verse-2018-movies-movies-spiderman-wallpaper-preview.jpg" width="512px"/>
+<img style="border-radius: 8px" src="https://c4.wallpaperflare.com/wallpaper/131/15/787/naruto-shippuuden-uchiha-itachi-anbu-silhouette-wallpaper-preview.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HaiTrieu0902&icon=0&color=0)](https://visitcount.itsvg.in)

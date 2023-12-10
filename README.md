@@ -12,11 +12,11 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=HaiTrieu0902&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### Ninja
+<img src="[https://random-memer.herokuapp.com/](https://c4.wallpaperflare.com/wallpaper/694/688/23/moon-silhouette-naruto-shippuden-uchiha-itachi-anime-ninja-anbu-1920x1080-anime-naruto-hd-art-wallpaper-preview.jpg)https://c4.wallpaperflare.com/wallpaper/694/688/23/moon-silhouette-naruto-shippuden-uchiha-itachi-anime-ninja-anbu-1920x1080-anime-naruto-hd-art-wallpaper-preview.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HaiTrieu0902&icon=0&color=0)](https://visitcount.itsvg.in)

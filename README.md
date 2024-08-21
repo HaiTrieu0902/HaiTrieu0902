@@ -1,5 +1,4 @@
-# 💫About Me :
-Hi, I'm Hai Trieu 👋
+  Hi, I'm Hai Trieu 👋
 I'm a Junior Full Stack Software Engineer with experience in website, mobile app, and software development. Currently, I’m working as a programmer at Powergate Software. I’m passionate about building scalable and efficient applications, and I have a growing interest in solution architecture, where I strive to design solutions that address real-world challenges effectively.
 
 ## 🌐Socials

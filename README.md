@@ -1,6 +1,6 @@
 Hi, I'm Hai Trieu 👋
 
-I'm a Junior Full Stack Software Engineer with experience in website, mobile app, and software development. Currently, I’m working as a programmer at Powergate Software. I’m passionate about building scalable and efficient applications, and I have a growing interest in solution architecture, where I strive to design solutions that address real-world challenges effectively.
+I’m a Software Engineer with experience in web, mobile, and software development, currently working at Raffles VN. I am passionate about creating scalable, efficient applications and have a growing interest in solution architecture, aiming to design systems that solve real-world challenges effectively.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trieubuihai/  ) 

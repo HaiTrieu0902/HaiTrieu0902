@@ -1,7 +1,7 @@
 # 💫About Me :
 Hi, I'm Hai Trieu 👋
 
-I’m a Software Engineer at Raffles VN with experience in web, mobile, and software development. I’m passionate about building efficient, scalable applications and am currently focused on system architecture solutions (Clean Architecture, Onion Architecture), CI/CD, Docker, and microservices to tackle real-world challenges effectively."
+I’m a Software Engineer with experience in both web and mobile development. I’ve worked with microservices, micro frontends, Kubernetes, CI/CD pipelines, Jenkins, Harbor, and Docker, focusing on modern architecture solutions to build scalable and maintainable systems."
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/trieuql123) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haitrieufitness) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/trieubuihai) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@htrieu.fitness) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@haitrieu-fitness)
